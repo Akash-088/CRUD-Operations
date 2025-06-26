@@ -39,7 +39,6 @@ CRUD-Operations/
 
 ### 📝 Sample POST Body
 
-```json
 {
   "title": "Clean Code",
   "author": "Robert C. Martin"
